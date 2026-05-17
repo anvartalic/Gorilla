@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="gorilla.client/gorilla.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Gorilla.Server/Gorilla.Server.csproj" />
+</Solution>
